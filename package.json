@@ -1,0 +1,13 @@
+{
+  "name": "express-force-secure",
+  "version": "1.0.0",
+  "description": "Forces the Express application to be served over a secure connection",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["express", "force", "tls", "ssl", "security", "middleware"],
+  "author": "Gilles De Mey <gilles.de.mey@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "http-errors": "^1.4.0"
+  }
+}
